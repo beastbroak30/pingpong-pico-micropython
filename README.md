@@ -26,4 +26,27 @@ A simple Ping Pong game programmed in Micropython for Raspberry Pico, utilizing 
 
 - First install a micropython on your device [Pico](https://micropython.org/download/RPI_PICO/)
 >To learn more about [raspberry pico](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
-not written fully 
+- Download Thonny
+- Blink Led Lights
+- clone the repo:
+   ```shell
+   git clone https://github.com/beastbroak30/pingpong-pico-micropython.git
+   ```
+- Transfer the files to your device
+- Download required lib from here:
+    - ST7735.py
+    - sysfont.py
+  >Download repo from here [LIB]()
+- And Boom it should work not
+   Feel free to raise any issue 
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+## Contact
+
+If you have any questions, comments, or suggestions about CryptoChat, please feel free to contact me:
+
+- Email: akantarip30@gmail.com
+       
+       
