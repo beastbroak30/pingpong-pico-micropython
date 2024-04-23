@@ -36,7 +36,7 @@ A simple Ping Pong game programmed in Micropython for Raspberry Pico, utilizing 
 - Download required lib from here:
     - ST7735.py
     - sysfont.py
-  >Download repo from here [LIB]()
+  >Download repo from here [LIB](https://github.com/beastbroak30/ST7735-lib-micropython)
 - And Boom it should work not
    Feel free to raise any issue 
 ## Contributing
